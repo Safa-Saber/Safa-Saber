@@ -9,7 +9,7 @@ I balance my work in IT with the occasional existential crisis over my coffee ch
 | **Aspect**            | **Detail**                               |
 |-----------------------|------------------------------------------|
 | **Location**          | Somewhere between my desk and the endless digital world  |
-| **Tech Goals**        | Master **Python** 🐍 and become a **C++ Overlord** 💻(cape included).             |
+| **Tech Goals**        | Master **Python** and become a **C++ Overlord** (cape included).             |
 | **Favorite Quote**    | "Code is my superpower."—also, I plan to program the world to make me coffee ☕ |
 
 ## My Tech Stack 
