@@ -1,4 +1,4 @@
-# Welcome to Safa's Tech Playground! 🎮
+# Welcome to Safa's Techverse!
 
 Hey there! Welcome to my corner of the coding world. I’m Safa, blending work, learning, and lots of coffee to build cool stuff. Get ready to dive into a bit of code and a lot of creativity.
 
@@ -19,16 +19,3 @@ I balance my work in IT with the occasional existential crisis over my coffee ch
 | **Python**          | For automating everything (and AI)    |
 | **C++**             | When I need to build something powerful and fast! |
 | **JavaScript**      | Crafting fun, interactive web pages |
-
-
-## My Goals 
-
-| **Time Frame**   | **Goal**                              |
-|------------------|---------------------------------------|
-| **Short-Term**   | Master **React** and launch a cool web app  |
-| **Long-Term**    | Land a job at **Google** or **Microsoft**—watch out, world! |
-
-
-
-
-
