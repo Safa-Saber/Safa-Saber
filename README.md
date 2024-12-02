@@ -2,9 +2,9 @@
 
 ## Hey there
 
-Welcome to my corner of the coding world. I am Safa, blending work, learning, and 
-lots of coffee to build cool stuff. Get ready to dive into a bit of code and a lot 
-of creativity.
+Welcome to my corner of the coding world. I am Safa, blending work, learning, 
+and lots of coffee to build cool stuff. Get ready to dive into a bit of code 
+and a lot of creativity.
 
 ### About Me
 
