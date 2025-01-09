@@ -10,8 +10,8 @@ and a lot of creativity.
 
 I’m a **Project Manager** in the IT industry with a passion for technology and
 innovation. I have hands-on experience with **JavaScript** and am currently
-exploring the fascinating worlds of **Machine Learning (ML)** and **Artificial
-Intelligence (AI)**. I believe in combining technical expertise with creativity
+exploring the fascinating worlds of **Machine Learning** and **Artificial
+Intelligence**. I believe in combining technical expertise with creativity
 to solve complex problems and create meaningful solutions.
 
 ## My Expertise
