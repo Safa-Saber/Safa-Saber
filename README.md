@@ -39,4 +39,4 @@ technology, AI, and beyond.
 
 ---
 
-Thanks for stopping by—let’s code, learn, and innovate together!
+Thanks for stopping by, let’s code, learn, and innovate together!
