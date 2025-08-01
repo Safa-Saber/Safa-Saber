@@ -15,7 +15,7 @@ to solve complex problems and create meaningful solutions.
 
 ## My Expertise
 
-- **Project Management**: Leading teams, managing timelines, and ensuring
+- **Project Management**: Managing timelines, and ensuring
   successful project delivery
 - **Programming**: Proficient in JavaScript and expanding my skill set to include
   ML and AI
